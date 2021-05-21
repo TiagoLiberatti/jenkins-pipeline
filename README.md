@@ -1,6 +1,5 @@
-## Fizz Buzz Example in Java 8 using JUnit 5
+Sobre
+-------------------
 
-### Fizz Buzz is a game where
-- if the number is divisible by 3, you say Fizz
-- if the number is divisible by 5, you say Buzz
-- if neither, you say the number
+      - Pipeline jenkins com dois estágios, um para realizar a compilação e outro 
+        para executar os cenários de testes com o maven.
